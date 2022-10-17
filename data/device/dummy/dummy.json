@@ -1,0 +1,7 @@
+{
+    "name": "Dummyphone C3",
+    "codename": "dummy",
+    "maintainer": "SwiftAOSP",
+    "changelog": "./changelog.txt",
+    "pictures": "image/dummy_mockup.png"
+}
